@@ -12,7 +12,7 @@ disqus: https://hackmd.io/gTarrQN9QfusSvZeZp2W_w
 ## User stories
 
 1. As a developer, I should be able to see which metachains exist for goerli (as origin chain)
-2. As a developer, I should be able to see what the base token is for each metachain (Ost or GoEth)
+2. As a developer, I should be able to see what the base token is for each metachain (GoEth)
 3. As a developer, I should be able to connect to a public web3 RPC for the origin chain
 4. As a developer, I should be able to connect to a public web3 RPC for a metachain
 5. As a developer, I should be able to get the base token on the origin (GoEth; from faucet)
@@ -25,4 +25,4 @@ disqus: https://hackmd.io/gTarrQN9QfusSvZeZp2W_w
 12. As a user, I should be able to withdraw the ERC20(base token) from the ConsensusCogateway and receive them as base token on the origin chain
 13. As a developer, I should be able to deploy any contracts to the metachain
 14. As a user, I should be able to view transactions on the block explorer
-15. As a user, I should be able to send any valid transactions to any metachain.
+15. As a user, I should be able to send any valid transactions to any metachain
