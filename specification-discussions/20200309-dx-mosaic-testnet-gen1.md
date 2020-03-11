@@ -23,6 +23,5 @@ disqus: https://hackmd.io/gTarrQN9QfusSvZeZp2W_w
 10. As a user, I should be able to withdraw any ERC20(not base token) from the ERC20Cogateway and receive the corresponding wGoEth, Ost, or ERC20 token on the origin
 11. As a user, I should be able to deposit the ERC20(base token) into the ConsensusGateway and receive them as base token on metachain
 12. As a user, I should be able to withdraw the ERC20(base token) from the ConsensusCogateway and receive them as base token on the origin chain
-13. As a developer, I should be able to deploy any contracts to the metachain
-14. As a user, I should be able to view transactions on the block explorer
-15. As a user, I should be able to send any valid transactions to any metachain
+13. As a user, I should be able to view transactions on the block explorer
+14. As a user, I should be able to send any valid ethereum transactions to any metachain
